@@ -17,3 +17,7 @@ func main() {
 //run the code after saving the file
 go run hello.go
 //pushing to github
+//rep name CIGO0122
+git add .
+git commit -m "hello world"
+git push -u nishtha master
