@@ -1,1 +1,14 @@
+//commands learnt
+git config --global user.name "Nishtha Gaur" // creating name of the user in git bash 
+git config --global user.email "nishg896@gmail.com" //assigning the email id of the user
+git init //initializing a file
+git status //tells about untracked files
+git add filename //adds a file 
+git commmit -m "Learning new technology" //shows message 
+git log --oneline //displays output as one commit per line
+git branch -M main //moves master branch to main 
+git remote add origin "repositorylink" // projects towards the link of repository 
+git push -u origin main //pushes the file to repository
+git pull //pulls a file 
+git clone 'url'//fetches or clones a repository
 
