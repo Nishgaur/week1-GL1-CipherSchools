@@ -1,0 +1,19 @@
+//opening VS code through cmd
+cd Desktop
+mkdir CIGO0122
+cd CIGO0122
+code .
+
+//In git bash terminal of VS code
+git init 
+//creating a hello world code 
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World!")
+}
+//run the code after saving the file
+go run hello.go
+//pushing to github
